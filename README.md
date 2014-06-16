@@ -24,8 +24,15 @@ To install python on Windows watch this [video](http://www.youtube.com/watch?v=C
 
 ###How to do Python programming?
 
+Windows
 Python IDLE (Integrated Development Environment) can be used for Python programming. Or, install [Eclipse IDE](http://www.eclipse.org/) and the [PyDev](http://pydev.org/) plugin and start coding in Python.
 
+Fedora/Ubuntu
+Python is generally comes with the OS.
+Open termainal and type
+`$ python`
+and the Python prompt >>> will appear.
+For text editor, we can use gEdit, VIM, SublimeText etc.
     
 ###License
 
