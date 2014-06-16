@@ -22,12 +22,12 @@ Download Python from [python.org](https://www.python.org)
 To install python on Windows watch this [video](http://www.youtube.com/watch?v=C9-SrDDHiN4&list=UUaqGoweuUdGFGEJA3fl6slg).
 
 
-###How to do Python programming?
+##How to do Python programming?
 
-Windows
+####Windows
 Python IDLE (Integrated Development Environment) can be used for Python programming. Or, install [Eclipse IDE](http://www.eclipse.org/) and the [PyDev](http://pydev.org/) plugin and start coding in Python.
 
-Fedora/Ubuntu
+####Ubuntu/Fedora
 Python is generally comes with the OS.
 Open termainal and type
 `$ python`
