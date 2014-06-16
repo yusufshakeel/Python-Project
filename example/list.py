@@ -117,3 +117,31 @@ s = 'monday tuesday wednesday thrusday friday saturday sunday'
 print s
 l = string.split(s, 'day')      #this will split s from the dilimiter 'day'
 print l
+
+
+#list functions
+mylist = [1,2,3]                #create a list
+print mylist
+
+mylist.append(4)                #append 4 to mylist
+print mylist
+
+mylist.insert(1,2)              #insert 2 at index 1
+print mylist
+
+n = mylist.count(2)             #count no. of 2 in the list
+print n
+
+mylist.extend([5,8,6,7,9])      #add a new list at the end of mylist    
+print mylist
+
+print mylist.index(2)           #return first index of element
+
+mylist.reverse()                #this will reverse the element of mylist
+print mylist
+
+mylist.sort()                   #this will sort the list
+print mylist
+
+mylist.remove(2)                #this will remove the first occurance of the element
+print mylist
