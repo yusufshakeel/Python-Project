@@ -22,20 +22,30 @@ Download Python from [python.org](https://www.python.org)
 To install python on Windows watch this [video](http://www.youtube.com/watch?v=C9-SrDDHiN4&list=UUaqGoweuUdGFGEJA3fl6slg).
 
 
-##How to do Python programming?
-
+##Python programming
 ####Windows
 Python IDLE (Integrated Development Environment) can be used for Python programming. Or, install [Eclipse IDE](http://www.eclipse.org/) and the [PyDev](http://pydev.org/) plugin and start coding in Python.
 
 ####Ubuntu/Fedora
-Python is generally comes with the OS.
+Python is generally comes pre-installed.
 Open termainal and type
 `$ python`
 and the Python prompt >>> will appear.
 For text editor, we can use gEdit, VIM, SublimeText etc.
-    
-###License
 
+Or download the latest version of Python from [python.org](https://www.python.org)
+
+####Mac OS X
+Python comes pre-installed on Mac OS X.
+Open termainal and type
+`$ python`
+and the Python prompt >>> will appear.
+For text editor, we can use SublimeText, TextMate etc.
+
+Or download the latest version of Python from [python.org](https://www.python.org)
+
+
+##License
 The MIT License (MIT)
 
 Copyright (c) 2014 Yusuf Shakeel
