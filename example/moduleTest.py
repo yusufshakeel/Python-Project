@@ -1,7 +1,7 @@
 #this module will use the moduleCase.py file
 
 #import all the functions of the moduleCase
-from moduleCase import *
+from moduleCase2 import *
 
-ch = '123AbSskfkKJBKJknfkjds!@#$%^&*()fk'
-print toUpperCase(ch)
+ch = '13265asdasdJHG!@#$%^&*()_+}{":<>?|~HGJHoiauoieuqo'
+print toLowerCase(ch)
