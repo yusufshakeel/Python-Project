@@ -1,0 +1,15 @@
+hello
+world
+red
+green
+blue
+alpha
+python
+c
+java
+c++
+c#
+php
+html
+css
+js
