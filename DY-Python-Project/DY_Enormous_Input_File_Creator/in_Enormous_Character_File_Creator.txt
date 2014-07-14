@@ -1,0 +1,41 @@
+Enormous Character File Creator
+
+Author: Yusuf Shakeel
+Date: 09-July-2014 Wednesday
+Version: 1.0.0710
+
+The MIT License Copyright (c) 2014 Yusuf Shakeel
+
+https://github.com/yusufshakeel
+https://www.facebook.com/yusufshakeel
+https://www.youtube.com/yusufshakeel
+https://plus.google.com/+YusufShakeel
+https://www.twitter.com/yusufshakeel
+--------------------------------------------------
+
+Note!
+This program will create enormous input file consisting of
+ASCII character [34-126 ASCII value].
+You will be prompted to enter an integer value from 1 to 1000000000.
+
+Integer Value  File Size (approx)
+-------------  ------------------
+10             10     bytes
+100            100    bytes
+1000           1000   bytes
+10000          9.76   KB
+100000         97.6   KB
+1000000        976    KB
+10000000       9.54   MB
+100000000      95.37  MB
+1000000000     953.67 MB
+10000000000    9.31   GB
+
+Output File name: in<YOUR_INTEGER_VALUE>char.dat
+Example: If you entered say 1000 then output file will be in1000char.dat
+
+WARNING!!!
+File size is directly proportional to the integer value you enter.
+If your integer value is very large (say more than 1000000000) then
+the input file created will be huge. THE FILE SIZE MAY GO OVER 1 GB!
+So be careful while entering your integer value.
