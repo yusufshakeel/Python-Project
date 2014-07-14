@@ -1,0 +1,22 @@
+DY Password Generator
+Author: Yusuf Shakeel
+Date: 10-July-2014 Thursday
+Version: 1.0.0710
+
+The MIT License
+Copyright (c) 2014 Yusuf Shakeel
+
+https://github.com/yusufshakeel
+https://www.facebook.com/yusufshakeel
+https://www.youtube.com/yusufshakeel
+https://plus.google.com/+YusufShakeel
+https://www.twitter.com/yusufshakeel
+--------------------------------------------------
+
+Note!
+You will be asked to enter the number of character you want in your password.
+Choose a number from 6 to 1024.
+Your password can have maximum 1024 characters.
+THOUGH 32 CHARACTERS ARE VERY STRONG!
+
+Output File: dy_password.txt
