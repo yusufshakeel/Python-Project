@@ -44,7 +44,9 @@ no = input("Enter an integer value [Safe Range: 1 to 1000000]: ")
 if no > 0:
 	fname = "in"+str(no)+"num.dat"
 	myfile = open(fname,'w')
-	for i in range(1,no+1):
+	myfile.write(str(no)+"\n")
+	for i in range(1,no):
 		myfile.write(str(i)+"\n")
+	myfile.write(str(no))
 	myfile.close()
 print("END OF PROGRAM\n")
